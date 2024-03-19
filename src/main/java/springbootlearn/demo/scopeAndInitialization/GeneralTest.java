@@ -1,4 +1,4 @@
-package demo.scopeAndInitialization;
+package springbootlearn.demo.scopeAndInitialization;
 
 
 //a changes after ..

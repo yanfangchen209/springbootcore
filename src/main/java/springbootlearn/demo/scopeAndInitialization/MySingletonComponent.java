@@ -1,4 +1,4 @@
-package demo.scopeAndInitialization;
+package springbootlearn.demo.scopeAndInitialization;
 
 import org.springframework.context.annotation.Lazy;
 import org.springframework.context.annotation.Scope;

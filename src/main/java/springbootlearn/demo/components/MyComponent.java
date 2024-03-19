@@ -1,4 +1,4 @@
-package demo.components;
+package springbootlearn.demo.components;
 import org.springframework.stereotype.Component;
 import java.time.LocalTime;
 

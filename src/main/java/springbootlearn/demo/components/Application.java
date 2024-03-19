@@ -1,4 +1,4 @@
-package demo.components;
+package springbootlearn.demo.components;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.boot.SpringApplication;

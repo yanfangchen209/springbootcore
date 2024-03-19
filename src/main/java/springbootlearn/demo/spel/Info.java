@@ -5,6 +5,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.springframework.stereotype.Component;
+
+@Component
 public class Info{
 	public List<String> cities(){
 		List<String> cities = new ArrayList<>();
@@ -19,7 +22,6 @@ public class Info{
         cities.add("Colchester");
         cities.add("Swansea");
         return cities;
-		
 		
 	}
 	

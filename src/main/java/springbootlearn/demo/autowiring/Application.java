@@ -1,4 +1,4 @@
-package demo.autowiring;
+package springbootlearn.demo.autowiring;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.boot.SpringApplication;

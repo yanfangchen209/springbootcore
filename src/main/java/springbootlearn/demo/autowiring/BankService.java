@@ -1,4 +1,4 @@
-package demo.autowiring;
+package springbootlearn.demo.autowiring;
 
 
 public interface BankService{

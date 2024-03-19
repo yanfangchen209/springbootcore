@@ -1,4 +1,4 @@
-package demo.autowiring;
+package springbootlearn.demo.autowiring;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Component;

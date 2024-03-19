@@ -1,4 +1,4 @@
-package demo.autowiring;
+package springbootlearn.demo.autowiring;
 
 import java.util.Collection;
 import java.util.Map;
