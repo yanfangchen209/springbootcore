@@ -22,6 +22,7 @@ public class MyBeanWithArgs{
 		for(String sourceArg: args.getSourceArgs()) {
 			System.out.println(" " + sourceArg);
 			
+			
 		}
 		System.out.println("option names");
 		for(String optName: args.getOptionNames()) {
